@@ -68,3 +68,14 @@ This project analyzes a dataset of 1,275 laptops and builds machine learning mod
 | **Random Forest**    | **102.25**    | **275.61**       | **Best Model**           |
 
 **Conclusion**: Random Forest provided the best balance between accuracy and generalization.
+
+## 📊 Power BI Dashboard Highlights
+
+I built a dedicated **Power BI dashboard** to make the insights more accessible and interactive:
+
+- Overview page: Price trends by company, type, and screen size  
+- Specification deep-dive: Impact of RAM, Storage type, CPU frequency, GPU brand  
+- Interactive filters & slicers: Company, TypeName, RAM range, Storage, OS  
+- Key visuals: Box plots, scatter plots, bar charts, treemaps, card visuals with conditional formatting  
+- Business-oriented layout: Clean design suitable for stakeholders / product managers
+  ![Power BI Dashboard - Overview](images/powerbi_overview.png)
